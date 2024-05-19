@@ -2,7 +2,7 @@
 
 - 🖥️ Desenvolvedor em desenvolvimento.
 
-- 🧑‍💻Trabalhando na [Exataid](https://www.exataid.com.br/) como Help Desk.
+- 🧑‍💻Trabalhando na [Exataid](https://www.exataid.com.br/) como Analista de Sistemas.
 
 - 📖 Atualmente cursando Análise e Desenvolvimento de Sistema no IFSP Polo Catanduva (5/6)
 
