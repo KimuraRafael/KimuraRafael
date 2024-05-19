@@ -8,10 +8,6 @@
 
 - 📕Técnico em Desenvolvimento de Sistemas pela ETEC Marinês Teodoro de Freitas Almeida
 
-## Meus Gráficos
-
-![Rafael Kimura stats](https://github-readme-stats.vercel.app/api?username=KimuraRafael&show_icons=true&theme=onedark) 
-
 ## Tecnologias que utilizo
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
